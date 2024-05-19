@@ -1,0 +1,69 @@
+name: flutter_layout
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/its1.jpg
+    - assets/images/its2.jpg
+    - assets/images/its3.jpeg
+    - assets/images/unair.jpg
+    - assets/images/unair2.jpg
+    - assets/images/unair3.jpg
+    - assets/images/ubaya.jpg
+    - assets/images/ubaya2.jpg
+    - assets/images/ubaya3.jpeg
+    - assets/images/unesa.png
+    - assets/images/unesa2.jpg
+    - assets/images/unesa3.jpg
+    - assets/images/UKWM.jpg
+    - assets/images/UKWM2.jpg
+    - assets/images/UKWM3.jpeg
+    - assets/images/pens.jpg
+    - assets/images/pens2.png
+    - assets/images/pens3.jpg
+    - assets/images/ppns.jpeg
+    - assets/images/ppns2.jpg
+    - assets/images/ppns3.png
+    - assets/images/untag.jpg
+    - assets/images/untag2.jpeg
+    - assets/images/untag3.jpeg
+    - assets/images/uc.jpg
+    - assets/images/uc2.jpg
+    - assets/images/uc3.jpg
+    - assets/images/umsurabaya.jpg
+    - assets/images/umsurabaya2.jpg
+    - assets/images/umsurabaya3.jpg
+    - assets/images/petra.jpg
+    - assets/images/petra2.jpg
+    - assets/images/petra3.jpg
+    - assets/images/poltekkes.jpg
+    - assets/images/poltekkes2.jpg
+    - assets/images/poltekkes3.jpg
+    - assets/images/stts.jpg
+    - assets/images/stts2.jpg
+    - assets/images/stts3.jpg
+  fonts:
+    - family: Lobster
+      fonts:
+        - asset: assets/fonts/Lobster-Regular.ttf
+    
+    - family: Oxygen
+      fonts:
+        - asset: assets/fonts/Oxygen-Regular.ttf
+        - asset: assets/fonts/Oxygen-Bold.ttf
+          weight: 700
